@@ -1,0 +1,7 @@
+apiVersion: isaac.mblb.net/v1alpha1
+kind: LakeHouse
+metadata:
+  name: lakehousep2s2
+spec:
+  resourceGroupName: rg-scope-p2scope2
+  providerConfigName: provider-config-p2scope2
